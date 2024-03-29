@@ -1,4 +1,5 @@
-# Proyect
+# Portal web
+![cover](https://github.com/relly27/Portal-Web-En-construccion-/blob/main/cover.png?raw=true)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
 
